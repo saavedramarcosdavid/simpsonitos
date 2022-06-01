@@ -1,0 +1,22 @@
+
+
+
+
+
+                         INSTRUCCIONES: 
+
+
+                               * Usted debe pensar en un Animal.
+                              
+                               * La adivinadora preguntará por caracteristica
+                                 del animal que tiene usted en mente.
+                              
+                               * Se debe responder "Si" en caso de que sea correcta.
+
+                               * En caso contrario, se debe responder "No".
+
+
+
+
+
+                         (Precione Enter para continuar)  
