@@ -198,5 +198,7 @@ int main(int argc, char const *argv[]){
 
 	eliminar_arbol(&a);
 
+	clrscr();
+
 	return 0;
 }
