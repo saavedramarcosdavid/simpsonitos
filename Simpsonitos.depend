@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1654253739 source:c:\users\alumnos\marcos saavedra\simpsonitos-main\arbol.c
+	"arbol.h"
+
+1654254078 c:\users\alumnos\marcos saavedra\simpsonitos-main\arbol.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1654253984 source:c:\users\alumnos\marcos saavedra\simpsonitos-main\juego.c
+	"juego.h"
+
+1654253977 c:\users\alumnos\marcos saavedra\simpsonitos-main\juego.h
+	"arbol.h"
+
+1654254177 source:c:\users\alumnos\marcos saavedra\simpsonitos-main\main.c
+	<stdio.h>
+	"juego.h"
+	"arbol.h"
+
